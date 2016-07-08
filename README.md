@@ -8,8 +8,8 @@
 ![](http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg)
 （Python开发者）
 
-### 入门级
------
+## 入门级
+
 **《[Head First Python](https://www.amazon.cn/%E9%87%8D%E8%A7%86%E5%A4%A7%E8%84%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97-Head-First-Python-%E5%B7%B4%E9%87%8C/dp/B007NB2B4M/ref=sr_1_1?ie=UTF8&qid=1467898459&sr=8-1&keywords=Head+First+Python&tag=vastwork-23)》+ 入门级 + 微信49票 + 豆瓣评分 9.5** 
 
 推荐语：
@@ -97,8 +97,8 @@
 > **na@A：**合懂英语的人入门python，例子深入浅出并且覆盖很多容易出错的细节，而且篇幅较短。
 
 
-### 进阶级
-------
+## 进阶级
+
 **《[Flask Web开发:基于Python的Web应用开发实战](https://www.amazon.cn/Flask-Web%E5%BC%80%E5%8F%91-%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%A0%BC%E6%9E%97%E5%B8%83%E6%88%88/dp/B00QT2TQCG/ref=sr_1_1?ie=UTF8&qid=1467898367&sr=8-1&keywords=flask+web%E5%BC%80%E5%8F%91&tag=vastwork-23)》+ 进阶级 + 29票 + 豆瓣评分 8.6** 
 
 推荐语：
