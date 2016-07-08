@@ -5,7 +5,8 @@
 
 好的技术书籍可以帮助我们快速地成长，大部分人或多或少地受益于经典的技术书籍。在「Python开发者」微信公号后台，我们经常能收到让帮忙推荐书籍的消息。这类的问题在[@Python开发者 微博](http://weibo.com/u/5305630013) 和 [伯乐在线的 Python小组](http://group.jobbole.com/category/tech/python/) 讨论中也不绝于耳。 7月3日，伯乐在线在「Python开发者」微信公号[发起了一个讨论](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563805&idx=1&sn=57f4c3835346b7a4ca13d5cb4cc6cbb8&scene=0#wechat_redirect) （注：PC端无法看到大家的评论，需要关注微信公号后，从微信才可以看到），通过这个讨论话题，在评论中分享对自己帮助很大的Python技术书籍。
 
-![](http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg)_（Python开发者）_
+![](http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg)
+（Python开发者）
 
 ### 入门级
 -----
@@ -97,7 +98,7 @@
 
 
 ### 进阶级
-
+------
 **《[Flask Web开发:基于Python的Web应用开发实战](https://www.amazon.cn/Flask-Web%E5%BC%80%E5%8F%91-%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%A0%BC%E6%9E%97%E5%B8%83%E6%88%88/dp/B00QT2TQCG/ref=sr_1_1?ie=UTF8&qid=1467898367&sr=8-1&keywords=flask+web%E5%BC%80%E5%8F%91&tag=vastwork-23)》+ 进阶级 + 29票 + 豆瓣评分 8.6** 
 
 推荐语：
