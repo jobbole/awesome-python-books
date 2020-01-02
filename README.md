@@ -3,7 +3,7 @@
 
 ## 前言
 
-好的技术书籍可以帮助我们快速地成长，大部分人或多或少地受益于经典的技术书籍。在「Python开发者」微信公号后台，我们经常能收到让帮忙推荐书籍的消息。这类的问题在[@Python开发者 微博](http://weibo.com/u/5305630013) 和 [伯乐在线的 Python小组](http://group.jobbole.com/category/tech/python/) 讨论中也不绝于耳。 7月3日，伯乐在线在「Python开发者」微信公号[发起了一个讨论](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563805&idx=1&sn=57f4c3835346b7a4ca13d5cb4cc6cbb8&scene=0#wechat_redirect) （注：PC端无法看到大家的评论，需要关注微信公号后，从微信才可以看到），通过这个讨论话题，在评论中分享对自己帮助很大的Python技术书籍。
+好的技术书籍可以帮助我们快速地成长，大部分人或多或少地受益于经典的技术书籍。在「Python开发者」微信公号后台，我们经常能收到让帮忙推荐书籍的消息。这类的问题在[@Python开发者 微博](http://weibo.com/u/5305630013) 和 [伯乐在线的 Python小组](http://group.importnew.com/category/tech/python/) 讨论中也不绝于耳。 7月3日，伯乐在线在「Python开发者」微信公号[发起了一个讨论](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563805&idx=1&sn=57f4c3835346b7a4ca13d5cb4cc6cbb8&scene=0#wechat_redirect) （注：PC端无法看到大家的评论，需要关注微信公号后，从微信才可以看到），通过这个讨论话题，在评论中分享对自己帮助很大的Python技术书籍。
 
 ![](http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg)
 （Python开发者）
