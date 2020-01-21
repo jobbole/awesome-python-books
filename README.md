@@ -143,6 +143,12 @@
 
 > **伊凡：**讲了很多细节，以及语言设计背后的考量，对深入理解以及写出Pythonic的代码很有帮助
 
+**《[Effective Python](https://www.amazon.cn/Effective-Python-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FPython%E4%BB%A3%E7%A0%81%E7%9A%8459%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95-%E5%B8%83%E9%9B%B7%E7%89%B9%C2%B7%E6%96%AF%E6%8B%89%E7%89%B9%E9%87%91/dp/B01ASI36QS/ref=sr_1_1?ie=UTF8&qid=1471245715&sr=8-1&keywords=effective+python)》 + 进阶级** 
+
+推荐语：
+
+> **Linux-wang：**告诉你什么是Pythonic，以及如何优雅的写出Python代码，还告诉你为什么要这么写
+
 ## 你也可以来推荐
 
 以上推荐和点赞是来自微信「开发者」微信公号，你也可以在本文评论中，用以下格式来荐上述列表中没有出现的好书： **《书籍名称》**、**入门级 or 进阶级**、**一句话推荐语**  
